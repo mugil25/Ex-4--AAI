@@ -59,9 +59,11 @@ print("The most likely sequence of Weather States is",most_likely_sequence)
 
 ## Output:
  
- ![alt text](EXP-4-1.png)
+
  
-![alt text](EXP-4-2.png)
+![image](https://github.com/user-attachments/assets/5922c331-0464-4877-94cd-e5507f76636b)
+![image](https://github.com/user-attachments/assets/debedb59-2b47-4481-ab56-c040b03471a7)
+
 ## Result:
 Thus Hidden Markov Model is implemented using python.
 
